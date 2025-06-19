@@ -2,6 +2,8 @@
 
 A Game Boy drawing application optimized for Kindle, inspired by GB Paint by Bownly. Created using C and GBDK. The application features a clean interface with a static cursor and visual color selection indicators.
 
+<img src="https://github.com/user-attachments/assets/55897d94-db33-4cb8-972d-d2a65ab64ec5" width="300" alt="KPaint Screenshot">
+
 ## Features
 
 - Draw on an 18x15 pixel canvas
