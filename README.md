@@ -22,7 +22,6 @@ A Game Boy drawing application optimized for Kindle, inspired by GB Paint by Bow
   - **B + Down**: Select White (appears black on Kindle)
   - **B + Left**: Select Light Gray
 - **Start**: Open clear canvas menu
-- **Select + D-pad**: Switch between canvases
 
 ## Building
 
